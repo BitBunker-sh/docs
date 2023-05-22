@@ -1,25 +1,25 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Documentation Starter Kit",
+  "name": "BitBunker Documentation",
   "logo": {
     "dark": "/logo/dark.png",
     "light": "/logo/light.png"
   },
   "favicon": "/favicon.png",
   "colors": {
-    "primary": "#0069ED",
+    "primary": "#206BC4",
     "light": "#4D9CFF",
     "dark": "#0050B4"
   },
   "topbarLinks": [
     {
-      "name": "Documentation",
-      "url": "https://mintlify.com/docs"
+      "name": "Login",
+      "url": "https://app.bitbunker.sh/login"
     }
   ],
   "topbarCtaButton": {
     "name": "Get Started",
-    "url": "https://github.com/mintlify/starter"
+    "url": "https://app.bitbunker.sh/register"
   },
   "anchors": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "Community",
       "icon": "discord",
-      "url": "https://mintlify.com/community"
+      "url": "https://mxuk.me/bitbunker-discord"
     }
   ],
   "navigation": [
