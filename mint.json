@@ -60,5 +60,10 @@
   "footerSocials": {
     "twitter": "https://twitter.com/BitBunkerSH",
     "github": "https://github.com/BitBunker-SH"
+  },
+  "analytics": {
+    "plausible": {
+      "domain": "docs.bitbunker.sh"
+    }
   }
 }
