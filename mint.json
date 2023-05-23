@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "BitBunker Documentation",
+  "name": "BitBunker",
   "logo": {
     "dark": "/logo/logo.png",
     "light": "/logo/logo.png"
@@ -59,7 +59,8 @@
   ],
   "footerSocials": {
     "twitter": "https://twitter.com/BitBunkerSH",
-    "github": "https://github.com/BitBunker-SH"
+    "github": "https://github.com/BitBunker-SH",
+    "discord": "https://mxuk.me/bitbunker-discord"
   },
   "analytics": {
     "plausible": {
