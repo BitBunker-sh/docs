@@ -45,8 +45,8 @@
   ],
   "navigation": [
     {
-      "group": "Home",
-      "pages": ["introduction", "features"]
+      "group": "Getting Started",
+      "pages": ["getting-started/introduction", "getting-started/features"]
     },
     {
       "group": "API Documentation",
