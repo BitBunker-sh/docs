@@ -36,6 +36,11 @@
       "name": "Community",
       "icon": "discord",
       "url": "https://mxuk.me/bitbunker-discord"
+    },
+    {
+      "name": "GitHub",
+      "icon": "github",
+      "url": "https://github.com/BitBunker-SH"
     }
   ],
   "navigation": [
